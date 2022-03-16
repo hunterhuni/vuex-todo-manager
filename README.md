@@ -6,6 +6,7 @@ It uses JSON placeholder to get data.
 ## Things covered
 - Vue basics
 - Vuex
+- CRUD methods and filtering
 - JSONPlaceholder requests with axios
 
 ### Screenshots:
